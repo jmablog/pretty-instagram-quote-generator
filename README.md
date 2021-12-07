@@ -16,7 +16,7 @@ This is an [R](https://www.r-project.org/) script to generate pretty [Instagram]
 
 ## Customising colours
 
-In `generator.R`, you will find a named list of colour options that you can change to whatever you like - just make sure each has a name at the top level (`red`, `blue`, `green` etc) and has a `bg`, `text` and `border` value associated. The values included by default are taken from [the alert box colours](https://github.com/tajmone/pandoc-goodies/blob/master/templates/html5/github/src/_alerts.scss) used in [Tristano Ajmone's](https://github.com/tajmone) [Pandoc Goodies](https://github.com/tajmone/pandoc-goodies) repo, 
+In `generator.R`, you will find a named list of colour options that you can change to whatever you like - just make sure each has a name at the top level (`red`, `blue`, `green` etc) and has a `bg`, `text` and `border` value associated. The values included by default are taken from [the alert box colours](https://github.com/tajmone/pandoc-goodies/blob/master/templates/html5/github/src/_alerts.scss) used in [Tristano Ajmone's](https://github.com/tajmone) [Pandoc Goodies](https://github.com/tajmone/pandoc-goodies) repo.
 
 ![](imgs/colours.png)
 
